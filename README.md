@@ -7,7 +7,7 @@ Javascript was updated as per the requirements of the projects and with referenc
 
 
 Link to the deployed application - 
-https://aryakris.github.io/Password-Generator-JS/
+https://aryakris.github.io/Password-Generator-JS/Develop
 
 Psuedocode:
 ============
