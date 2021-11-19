@@ -65,6 +65,8 @@ https://aryakris.github.io/Password-Generator-JS/Develop
 
 #### Image
 
+![alt text](https://github.com/AryaKris/Password-Generator-JS/blob/main/Assets/Screen%20Shot%202021-11-18%20at%2019.12.41.png)
+
 
 
 
