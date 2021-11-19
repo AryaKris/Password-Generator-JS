@@ -6,9 +6,6 @@ HTML and CSS files didn't need any changes.
 Javascript was updated as per the requirements of the projects and with reference to the pseudcode created. 
 
 
-Link to the deployed application - 
-https://aryakris.github.io/Password-Generator-JS/Develop
-
 Psuedocode:
 ============
 # How does my application need to function?
@@ -61,6 +58,12 @@ For each of the following , 'Declare' a variable to store the value
 - Randomnly select the charecters from my list 
 - Add our randomnly selected charecter to our password
 - Repeat until the password reaches the requested length
+
+
+Link to the deployed application - 
+https://aryakris.github.io/Password-Generator-JS/Develop
+
+#### Image
 
 
 
