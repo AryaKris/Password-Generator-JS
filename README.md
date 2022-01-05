@@ -67,6 +67,11 @@ https://aryakris.github.io/Password-Generator-JS/Develop
 
 ![alt text](https://github.com/AryaKris/Password-Generator-JS/blob/main/Assets/Screen%20Shot%202021-11-18%20at%2019.12.41.png)
 
+## 📝 License
+
+Copyright © 2021 [Arya Krishna](https://github.com/AryaKris). <br />
+This project is [MIT](https://github.com/AryaKris/Password-Generator-JS/blob/main/LICENSE) licensed.
+
 
 
 
